@@ -1,38 +1,38 @@
 {
     "FinApiData/excel": {
-      "version": "v3.0.0.0",
+      "version": "3.0.0.0",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/excel/releases/tag/v3.0.0.0"
+      "link": "https://github.com/FinApiData/excel/releases/tag/3.0.0.0"
     },
     "FinApiData/python": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/python/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/python/releases/tag/0.0.1"
     },
     "FinApiData/java": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/java/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/java/releases/tag/0.0.1"
     },
     "FinApiData/javascript": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/javascript/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/javascript/releases/tag/0.0.1"
     },
     "FinApiData/csharp": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/csharp/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/csharp/releases/tag/0.0.1"
     },
     "FinApiData/cpp": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/cpp/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/cpp/releases/tag/0.0.1"
     },
     "FinApiData/r": {
-      "version": "v0.0.1",
+      "version": "0.0.1",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/r/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/r/releases/tag/0.0.1"
     }
   }
   
