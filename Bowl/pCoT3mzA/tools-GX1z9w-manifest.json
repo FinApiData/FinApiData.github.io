@@ -1,8 +1,8 @@
 {
     "FinApiData/excel": {
-      "version": "v0.0.1",
+      "version": "v3.0.0.0",
       "releaseDate": "Jan 01, 2000",
-      "link": "https://github.com/FinApiData/excel/releases/tag/v0.0.1"
+      "link": "https://github.com/FinApiData/excel/releases/tag/v3.0.0.0"
     },
     "FinApiData/python": {
       "version": "v0.0.1",
